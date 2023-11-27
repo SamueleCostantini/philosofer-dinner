@@ -1,0 +1,10 @@
+forchette: semafori, filosofi: processi
+parent crea processi con fork, n processi passati come argomento
+parent deve ricevere linea con argomenti:
+- n processi
+- flag che attiva/disattiva riv. stallo
+- flag che abilita/dis soluzione stallo
+- flag che abilita/dis ril. starvation
+
+
+

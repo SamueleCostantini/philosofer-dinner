@@ -39,7 +39,7 @@ struct sharedMemory
 void SigIntHandler1(int iSignalCode)
 {
 
-	printf("Interrotto, arrivato segnale di stop, n. segnale : %d\n", getpid(), iSignalCode);
+	printf("Interrotto, arrivato segnale di stop, n. segnale : %d\n", iSignalCode);
 
 	exit(-1);
 }

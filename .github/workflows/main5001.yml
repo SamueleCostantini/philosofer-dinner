@@ -1,0 +1,19 @@
+name: Esegui Script
+
+on:
+  push:
+    branches:
+      - main  # Sostituisci con il nome del tuo branch principale
+
+jobs:
+  esegui-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout del codice
+      uses: actions/checkout@v2
+
+    - name: Esegui lo script Bash
+      run: |
+        chmod +x ./run.sh
+        ./run.sh 5 0 0 1

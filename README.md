@@ -2,17 +2,17 @@
 
 # readme file
 
-ESEGUIRE SCRIPT "run.sh" con 4 argomenti
+ESEGUIRE SCRIPT "run.sh" con 4 argomenti <br>
 
-arg. 1 -> Quantità di filosofi
-arg. 2 -> se 1 rileva lo stallo
-arg. 3 -> se 1 evita lo stallo
-arg. 4 -> se 1 rileva la starvation
+arg. 1 -> Quantità di filosofi <br>
+arg. 2 -> se 1 rileva lo stallo <br>
+arg. 3 -> se 1 evita lo stallo <br>
+arg. 4 -> se 1 rileva la starvation <br>
 
-leggenda:
+leggenda: <br>
 
-parent -> programma principale che esegue la cena dei filosofi
-controllore -> programma che agisce in background e controlla i filosofi di parent
-filelog.txt -> resoconto controllore
+parent -> programma principale che esegue la cena dei filosofi <br>
+controllore -> programma che agisce in background e controlla i filosofi di parent <br>
+filelog.txt -> resoconto controllore <br>
 
 # fine

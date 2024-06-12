@@ -1,4 +1,6 @@
 # philosofer-dinner
+Progetto universitario: implementazione in c del famoso problema di mutua esclusione e gestione delle risorse "La cena dei filosofi", dove ogni filosofo ha due bacchette e il numero delle bacchette
+è lo stesso dei filosofi. Qui maggiori informazioni: https://it.wikipedia.org/wiki/Problema_dei_filosofi_a_cena
 
 # readme file
 
